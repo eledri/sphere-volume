@@ -1,0 +1,35 @@
+.calculateForm {
+  width: 300px;
+  margin-top: 20px;
+  margin-left: 25px;
+  float: left;
+}
+.calculateFormInput {
+  margin-top: -10px;
+}
+.displayVolume {
+  border: 1px solid lightgray;
+  height: 37px;
+  width: 300px;
+  border-radius: 3px;
+  margin-top: -10px;
+}
+
+.canvasDrawingContainer {
+  float: left;
+  width: 600px;
+  height: 500px;
+  margin-left: 120px;
+  margin-top: 30px;
+}
+.canvasDrawing {
+  border: 1px solid black;
+}
+
+.canvasDrawingHeader {
+  float: left;
+  margin-left: 10px;
+}
+.clearCanvas {
+  width: 504px;
+}
